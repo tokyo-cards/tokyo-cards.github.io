@@ -1,0 +1,36 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "King of Spades"
+        },
+        {
+            "trait_type": "Face",
+            "value": "King"
+        },
+        {
+            "trait_type": "House",
+            "value": "Spades"
+        },
+        {
+            "trait_type": "Inscription",
+            "value": "ふ"
+        },
+        {
+            "trait_type": "Card Type",
+            "value": "Non-Primal"
+        },
+        {
+            "trait_type": "Deck",
+            "value": "Acky"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ],
+    "description": "Trading Poker Cards from Diva.Cards",
+    "external_url": "https://diva.cards/items?id=2619",
+    "image": "https://diva.cards/images/card_set/akki/2619.jpg",
+    "name": "King of Spades"
+}

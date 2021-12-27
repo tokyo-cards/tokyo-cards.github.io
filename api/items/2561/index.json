@@ -1,0 +1,36 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Queen of Diamonds"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Queen"
+        },
+        {
+            "trait_type": "House",
+            "value": "Diamonds"
+        },
+        {
+            "trait_type": "Inscription",
+            "value": "ね"
+        },
+        {
+            "trait_type": "Card Type",
+            "value": "Non-Primal"
+        },
+        {
+            "trait_type": "Deck",
+            "value": "Acky"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ],
+    "description": "Trading Poker Cards from Diva.Cards",
+    "external_url": "https://diva.cards/items?id=2561",
+    "image": "https://diva.cards/images/card_set/akki/2561.jpg",
+    "name": "Queen of Diamonds"
+}

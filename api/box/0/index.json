@@ -1,0 +1,12 @@
+{
+    "attributes": [
+        {
+            "trait_type": "number_inside",
+            "value": 1 
+        }
+    ],
+    "description": "This lootbox contains some Diva Items! It can also be traded!",
+    "external_url": "https://diva.cards/box/0/",
+    "image": "https://diva.cards/images/box/0.jpg",
+    "name": "Iordium Chest"
+}

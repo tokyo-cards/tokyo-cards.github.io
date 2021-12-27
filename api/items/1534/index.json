@@ -1,0 +1,36 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "8 of Spades"
+        },
+        {
+            "trait_type": "Face",
+            "value": "8"
+        },
+        {
+            "trait_type": "House",
+            "value": "Spades"
+        },
+        {
+            "trait_type": "Inscription",
+            "value": "ぬ"
+        },
+        {
+            "trait_type": "Card Type",
+            "value": "Non-Primal"
+        },
+        {
+            "trait_type": "Deck",
+            "value": "Acky"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Uncommon"
+        }
+    ],
+    "description": "Trading Poker Cards from Diva.Cards",
+    "external_url": "https://diva.cards/items?id=1534",
+    "image": "https://diva.cards/images/card_set/akki/1534.jpg",
+    "name": "8 of Spades"
+}

@@ -1,0 +1,36 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Real Joker"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Real"
+        },
+        {
+            "trait_type": "House",
+            "value": "Joker"
+        },
+        {
+            "trait_type": "Inscription",
+            "value": "せ"
+        },
+        {
+            "trait_type": "Card Type",
+            "value": "Non-Primal"
+        },
+        {
+            "trait_type": "Deck",
+            "value": "Acky"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ],
+    "description": "Trading Poker Cards from Diva.Cards",
+    "external_url": "https://diva.cards/items?id=2875",
+    "image": "https://diva.cards/images/card_set/akki/2875.jpg",
+    "name": "Real Joker"
+}

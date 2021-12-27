@@ -1,0 +1,36 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Ace of Diamonds"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Ace"
+        },
+        {
+            "trait_type": "House",
+            "value": "Diamonds"
+        },
+        {
+            "trait_type": "Inscription",
+            "value": "ほ"
+        },
+        {
+            "trait_type": "Card Type",
+            "value": "Non-Primal"
+        },
+        {
+            "trait_type": "Deck",
+            "value": "Acky"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Epic"
+        }
+    ],
+    "description": "Trading Poker Cards from Diva.Cards",
+    "external_url": "https://diva.cards/items?id=191",
+    "image": "https://diva.cards/images/card_set/akki/191.jpg",
+    "name": "Ace of Diamonds"
+}
